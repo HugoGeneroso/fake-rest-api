@@ -4,7 +4,7 @@
     { "id": 1, "name": "John Issac", "city": "Manchester" },
     { "id": 2, "name": "Newton Jobs","city": "London" },
     { "id": 3, "name": "Robert Sanchez","city": "Liverpool"},
-    { "id": 4, "name": "Luiz Lima","city": "London"}
+    { "id": 4, "name": "Luiz Lima","city": "London"},
     { "id": 5, "name": "Angela Torres","city": "Manchester"},
     { "id": 6, "name": "Ellie Goubert","city": "Liverpool"},
     { "id": 7, "name": "Andrew Drei","city": "London"},
