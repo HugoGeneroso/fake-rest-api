@@ -28,20 +28,5 @@
     { "id": 1, "name": "Tom Sacks", "tutor": 7 },
     { "id": 1, "name": "Joberto Jobs", "tutor": 8 },
     { "id": 1, "name": "Hugo Alonso", "tutor": 1 },
-    { "id": 1, "name": "Lucas da Silva", "tutor": 2 },
-    { "id": 2, "name": "Astolfo Felipe", "tutor": 3 },
-    { "id": 2, "name": "Sunshine Luiz", "tutor": 4 },
-    { "id": 2, "name": "Joseph Rainbow", "tutor": 5 },
-    { "id": 2, "name": "Mary Ann Luiz", "tutor": 6 },
-    { "id": 2, "name": "Mac Louiee", "tutor": 7 },
-    { "id": 2, "name": "Kendrick Loid", "tutor": 8 },
-    { "id": 2, "name": "Froid Zord", "tutor": 1 },
-    { "id": 2, "name": "Freud Berg", "tutor": 2 },
-    { "id": 2, "name": "Madeline Luck", "tutor": 3 },
-    { "id": 2, "name": "Shawn Lattenfanger", "tutor": 4 },
-    { "id": 2, "name": "Hieros Light", "tutor": 5 },
-    { "id": 2, "name": "Locky Keyson", "tutor": 6 },
-    { "id": 2, "name": "Luiz Biscuit", "tutor": 7 },
-    { "id": 2, "name": "Landalberto Rodriguez", "tutor": 8 }
   ]
 }
